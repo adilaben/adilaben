@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Aâdila Bendahou
+- 👋 Hi, I’m Aâdila Bendahou, a software engineer!
 - 👀 I’m interested in Web and Mobile Development.
 - 🌱 I’m currently improving my ReactJs and SpringBoot skills ...
 <!-- - 💞️ I’m looking to collaborate on ... -->
