@@ -17,5 +17,5 @@ My goal is to combine my software engineering and illustration skills to create 
 <h4 align="center"> 📌 Pinned Repositories 📌  </h4>
 
 <a href="https://github.com/adilaben/moviecatch">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=tailwindcss-v2-dark-mode-template&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=8A6EAF" />
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=adilaben&repo=moviecatch&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=8A6EAF" />
 </a>
