@@ -14,8 +14,15 @@ My goal is to combine my software engineering and illustration skills to create 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=8A6EAF)](https://twitter.com/AdilaDev)
 
 
-<h4 align="center"> 📌 Pinned Repositories 📌  </h4>
+<h3 align="center"> 📌 Pinned Repositories 📌  </h3>
 
 <a href="https://github.com/adilaben/moviecatch">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=adilaben&repo=moviecatch&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=8A6EAF" />
 </a>
+
+<h3 align="center"> 💼 Skills 💼  </h3>
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+
