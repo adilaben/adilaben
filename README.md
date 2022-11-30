@@ -1,6 +1,5 @@
 <h1 align="center">
- Junior Softw
- are Engineer & NFT Illustrator
+ Junior Software Engineer & NFT Illustrator
 </h1>
 
 ![GitHubHeader](https://user-images.githubusercontent.com/82048235/204900620-32ae1bd2-6e9c-4381-b6d4-3fa91366b3f7.png)
