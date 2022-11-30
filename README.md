@@ -1,4 +1,5 @@
 # Junior Software Engineer & NFT Illustrator
+![GitHubHeader](https://user-images.githubusercontent.com/82048235/204900620-32ae1bd2-6e9c-4381-b6d4-3fa91366b3f7.png)
 
 I'm a junior software engineer and NFT illustrator with a passion for building projects that make a positive impact on the world. I specialize in web and mobile development, as well as making NFTs collections. 
 
