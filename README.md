@@ -21,7 +21,7 @@ My goal is to combine my software engineering and illustration skills to create 
 <a href="https://github.com/adilaben/moviecatch">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=adilaben&repo=moviecatch&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=8A6EAF" />
 </a>
-<a href="https://github.com/adilaben/moviecatch">
+<a href="https://github.com/adilaben/nft_marketplace">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=adilaben&repo=nft_marketplace&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=8A6EAF" />
 </a>
  
