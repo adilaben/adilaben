@@ -1,10 +1,10 @@
 <h1 align="center">
- Junior Software Engineer & NFT Illustrator
+ Software Engineer & NFT Illustrator
 </h1>
 
 ![GitHubHeader](https://user-images.githubusercontent.com/82048235/204900620-32ae1bd2-6e9c-4381-b6d4-3fa91366b3f7.png)
 
-Hi there, I'm Aâdila Bendahou. A junior software engineer and NFT illustrator with a passion for building projects that make a positive impact on the world. I specialize in web and mobile development, as well as making NFTs collections. 
+Hi there, I'm Aâdila Bendahou. A software engineer and NFT illustrator with a passion for building projects that make a positive impact on the world. I specialize in web and mobile development, as well as making NFTs collections. 
 
 I have experience working with various programming languages such as JavaScript, Python and Java. I also have a background in graphic design and illustration, which I use to create unique digital artwork. 
 
