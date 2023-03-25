@@ -2,7 +2,7 @@
  Software Engineer & NFT Illustrator
 </h1>
 
-![GitHubHeader](https://user-images.githubusercontent.com/82048235/204900620-32ae1bd2-6e9c-4381-b6d4-3fa91366b3f7.png)
+![Aâdila Bendahou](https://user-images.githubusercontent.com/82048235/227745459-749e2809-0a29-4104-8345-f4bd20ce3fe3.png)
 
 Hi there, I'm Aâdila Bendahou. A software engineer and NFT illustrator with a passion for building projects that make a positive impact on the world. I specialize in web and mobile development, as well as making NFTs collections. 
 
