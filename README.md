@@ -5,7 +5,7 @@
 [![Aâdila Bendahou](https://user-images.githubusercontent.com/82048235/227752481-d6f44cc4-0aaa-47ed-90e8-0513a5f0e17f.gif)](https://www.adilaben.com/)
 
 Hi there, I'm Aâdila Bendahou, a software engineer who graduated from ENSAH. I have a passion for creating user-friendly web and mobile applications, as well as an interest in UI/UX design and creating NFT collections. I've worked with programming languages like JavaScript, Python, and Java, and I'm comfortable with popular front-end and back-end technologies such as React, NextJs, React Native, and Node.js. With a background in graphic design and illustration, I'm able to craft visually appealing user interfaces and unique digital artwork. I'm always looking to expand my knowledge and skills while tackling new challenges. I'm excited to bring my passion for software engineering and design to a dynamic team and help create impactful software solutions
-Don't hesitate to reach out via email: adilabendahou@gmail.com and my personal website is www.adilaben.com!
+Don't hesitate to reach out via email: contact@adilaben.com and my personal website is www.adilaben.com!
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=8A6EAF)](https://www.linkedin.com/in/aadila-bendahou/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=8A6EAF)](https://twitter.com/AdilaDev)
